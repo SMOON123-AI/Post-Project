@@ -67,7 +67,7 @@ Post-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/SMOON123-AI/Post-Project.git
 cd Post-Project
 ```
 
